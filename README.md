@@ -1,4 +1,4 @@
-# EDUVERSE - GameFi Project on EDU Ecosystem
+12122# EDUVERSE - GameFi Project on EDU Ecosystem
 
 ![Screenshot 2024-08-31 052058](https://github.com/user-attachments/assets/91f03a4b-e9e3-4dc2-89b2-2737c330f852)
 
@@ -6,7 +6,7 @@ You own a virtual study table where you can mint empty books, write with a pen i
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
 
-## Quickstart
+## Quickstart 112
 
 To get started, follow the steps below:
 
